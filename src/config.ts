@@ -13,14 +13,14 @@ const requiredNamespaces = {
 // Wallet Connect Metadata
 // todo: change metadata
 const wcMetadata = {
-  name: 'BCH Hodl Dapp',
+  name: 'BCH Hodl Dapp Ander',
   description: 'Timelock your Bitcoin Cash',
-  url: 'https://bch-hodl-dapp.netlify.app/',
-  icons: ['https://bch-hodl-dapp.netlify.app/favicon.svg']
+  url: 'https://bchanderh.netlify.app/',
+  icons: ['https://bchanderh.netlify.app/favicon.svg']
 };
 
 // todo: change cashninjas project id
-const projectId = "2aca272d18deb10ff748260da5f78bfd";
+const projectId = "74499b23e341e0e34d6bd4e9679ae3f1";
 
 const wcModalConfig = {
   projectId: projectId,
